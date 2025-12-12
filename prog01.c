@@ -1,3 +1,4 @@
+// Program to calculate total marks and percentage of 5 subjects
 #include <stdio.h>
 int main()
 {
@@ -23,3 +24,15 @@ int main()
     printf("\nPercentage = %.2lf %%", percent);
     return 0;
 }
+
+//output
+// Input the Maximum Marks for each subject : 100
+// Input the marks.
+// Subject 1 : 85
+// Subject 2 : 90
+// Subject 3 : 78
+// Subject 4 : 92
+// Subject 5 : 88
+// Total Marks = 433
+// Percentage = 86.60 %
+    
